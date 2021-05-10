@@ -1,1 +1,6 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+# ESinR
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+__*Evidence Synthesis in R*__ is a guide to performing systematic reviews and other evidence synthesis exercises using the R programming language.

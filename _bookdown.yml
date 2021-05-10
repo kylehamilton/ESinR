@@ -1,6 +1,8 @@
 book_filename: "ESinR"
 delete_merged_file: true
 output_dir: "_book"
+edit: https://github.com/mcguinlu/esinr/edit/master/%s
+rmd_subdir: "chapters"
 language:
   ui:
     chapter_name: "Chapter "

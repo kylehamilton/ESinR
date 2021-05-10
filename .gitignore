@@ -3,3 +3,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
+_book/
+_bookdown_files/
+README.md
+*.log
