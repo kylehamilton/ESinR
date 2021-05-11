@@ -4,6 +4,8 @@ on:
       - main
       - master
 
+name: Bookdown
+
 jobs:
   build:
     name: Deploy Book
