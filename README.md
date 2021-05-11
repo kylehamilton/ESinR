@@ -1,4 +1,4 @@
-# ESinR
+# Evidence Synthesis in R
 
 <!-- badges: start -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/18986562-9f54-46ea-be42-e7d1111a7d09/deploy-status)](https://app.netlify.com/sites/esinr/deploys)
