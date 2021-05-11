@@ -1,6 +1,10 @@
 ---
-name: Chapter/Section Proposal  
+name: Chapter/Section Proposal
 about: Propose a new chapter or section for the guide
+title: 'Chapter/Section Proposal: '
+labels: Proposal
+assignees: ''
+
 ---
 
 ## Chapter/Section title
@@ -18,4 +22,3 @@ about: Propose a new chapter or section for the guide
 <!--- Provide name of each package, and a link to its GitHub/CRAN page --->
 
 ## List of potential authors for this Chapter/Section (including yourself, if applicable)
-
