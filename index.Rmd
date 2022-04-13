@@ -1,5 +1,5 @@
 --- 
-title: "Evidence Synthesis in R"
+title: "Evidence Synthesis: A data-driven approach, with examples in R"
 author: 
   - Luke McGuinness (co-ordinator)
   - Co-authors TBC
