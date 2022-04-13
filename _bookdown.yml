@@ -2,7 +2,15 @@ book_filename: "ESinR"
 delete_merged_file: true
 output_dir: "_book"
 edit: https://github.com/mcguinlu/esinr/edit/master/%s
-rmd_subdir: "chapters"
 language:
   ui:
     chapter_name: "Chapter "
+# This overrides the automatic ordering of chapters
+rmd_files:
+  - "index.Rmd"
+  - "chapters/01-intro.Rmd"
+  - "chapters/11_info_retrieval.Rmd"
+  - "chapters/71_choose_syn_method.Rmd"
+  - "chapters/72_decision_analysis.Rmd"
+  - "chapters/73_publication_bias.Rmd"
+  - "chapters/99_references.Rmd"
